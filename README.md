@@ -1,9 +1,11 @@
 # AutoTok - Automatic unsubscribe after mass following
 
 main.py - main file
+
 user.py - fixed file from tiktokpy lib (replace it)
 
 Authorization by token (settings.toml)
+
 When you start the program for the first time: (Authorization is needed once!)
 ```python
 await bot.login_session()
